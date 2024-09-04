@@ -3,3 +3,20 @@ body{
 background-color:darkslateblue;
 color:antiquewhite;
 }
+
+.galeria{
+    margin: auto;
+    width: 70%;
+    height: fit-content;
+}
+
+img{
+    width: 100%;
+    border-radius: 30px;
+}
+
+video{
+    margin: 40px;
+    border-radius: 30px;
+    width: 70%
+}
